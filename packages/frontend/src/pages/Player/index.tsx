@@ -2,7 +2,7 @@ function Player() {
   return (
     <div>
       <h1>Player</h1>
-      <p>Player page content goes here.</p>
+      {/* <video src="../../../src/assets/IMG_0447 3.MOV" controls width="600" height="400" /> */}
     </div>
   )
 }
